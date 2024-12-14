@@ -1,0 +1,7 @@
+Income,Bills,Savings,Spending, Message
+
+100.0,2.0,2.0,2.0,Underspent
+100.0,20.0,30.0,30.0,Underspent
+0.0,0.0,0.0,0.0,Overspent
+100.0,20.0,30.0,2.0,Underspent
+2.0,3.0,4.0,4.0,Overspent
